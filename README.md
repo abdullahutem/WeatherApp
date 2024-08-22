@@ -1,16 +1,28 @@
-# weatherapp
+WeatherApp
 
-A new Flutter project.
+A simple and intuitive weather app built with Flutter, providing users with current weather conditions, temperature, humidity, wind speed, and forecast reports.
 
-## Getting Started
+Features:
 
-This project is a starting point for a Flutter application.
+Display current weather conditions, temperature, humidity, and wind speed
+Provide forecast reports for the next few days
+Allow users to navigate between current weather and forecast reports
+Use a clean and minimalistic design for an easy-to-use interface
+Technologies used:
 
-A few resources to get you started if this is your first Flutter project:
+Flutter for building the app
+GetX for state management and navigation
+Weather API for retrieving weather data
+Screenshots:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Insert screenshots of the app's main screens]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How to use:
+
+Open the app and navigate to the current weather screen
+View the current weather conditions, temperature, humidity, and wind speed
+Tap on the "Forecast report" button to view the forecast reports for the next few days
+Navigate back to the current weather screen by tapping on the "Back" button
+Contributing:
+
+If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. Make sure to follow the standard Flutter coding conventions and add relevant tests for your changes.
